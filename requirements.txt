@@ -1,0 +1,6 @@
+streamlit
+google-genai
+langchain
+langchain-google-genai
+langgraph
+ddgs

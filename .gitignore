@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+bao_cao_nghien_cuu*.md
+.DS_Store
