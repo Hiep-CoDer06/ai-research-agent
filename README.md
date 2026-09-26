@@ -2,7 +2,7 @@
 
 Agent AI tự động nghiên cứu một chủ đề bất kỳ: tự lập kế hoạch, tự tìm kiếm thông tin trên internet qua nhiều vòng lặp suy luận, và tổng hợp thành báo cáo hoàn chỉnh có trích dẫn nguồn — thay vì chỉ trả lời dựa trên "trí nhớ" có thể lỗi thời của LLM.
 
-**🔗 Demo trực tiếp:** [Dán link Streamlit Community Cloud của bạn vào đây]
+**🔗 Demo trực tiếp:** (https://hiep-ai-research-agent.streamlit.app/)
 
 <!-- 💡 Gợi ý: chèn 1 ảnh chụp màn hình hoặc GIF ngắn (5-10s) quay lúc app đang chạy vào đây.
 Đây là phần được nhìn NHIỀU NHẤT khi ai đó ghé repo - quan trọng hơn cả đọc code.
